@@ -1613,7 +1613,29 @@
 
 		}
 
+		.poptrox-popup .pic img {
+			max-height: 700px !important;
+
+	}
+
 		.poptrox-popup .caption {
 			overflow-y: scroll;
-			
+			line-height: 30px !important;
+			height: 200px !important;
+
 	}
+
+		.poptrox-popup  {
+			padding: 10px 10px 200px !important;
+
+}
+
+		.poptrox-overlay {
+			position: absolute !important;
+
+}
+
+		.poptrox-overlay:nth-child(2){
+				position: fixed !important;
+
+}
